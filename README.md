@@ -1,2 +1,2 @@
 # VucutKitleIndeksi
-Vücut kitle indeksini hesaplayan basiy matlab programı.
+Vücut kitle indeksini hesaplayan basit matlab programı.
